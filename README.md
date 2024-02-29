@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning TypeScript
+🌱 I’m currently learning TypeScript, React
 
 <!--
 **dam-ozog/dam-ozog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
