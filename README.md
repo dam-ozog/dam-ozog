@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+ I am self-Taught Frontend Developer
+
 🌱 I’m currently learning TypeScript, React
 
 <!--
